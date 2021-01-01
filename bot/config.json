@@ -1,0 +1,9 @@
+{ 
+    "token"  : "Ton token.",
+    "prefix" : "!",
+    "host" : "IP DE TA BDD", 
+    "utilisateur" : "root",
+    "motdepasse" : "MOT DE PASSE",
+    "database" : "NOM DE ELA BDD"
+}
+
