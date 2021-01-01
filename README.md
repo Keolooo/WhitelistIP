@@ -8,7 +8,7 @@ WhitelistIP = script pour le serveur FiveM.
 
 Pour le bot, il y'a un fichier config.json. C'est la que vous pourrez mettre votre token et vos identifiants de votre base de donnée.
 
-** IMPORTANT ** 
+# IMPORTANT 
 
 Pour le script WhitelistIP, non seulement vous devrez le start dans le server.cfg mais vous devrez aussi rajouté cette ligne : add_ace resource.WhitelistIP command.rconreloadwl allow
 
