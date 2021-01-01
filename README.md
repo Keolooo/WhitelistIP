@@ -1,6 +1,6 @@
 # WhitelistIP
 
-WhitelistIP via MySQL, je ne fournirai pas de support pour les personnes qui ne savent pas comment fonctionne les bots discord.
+WhitelistIP via MySQL, je ne fournirai pas de support pour les personnes qui ne savent pas comment fonctionne les bots discord. Mon discord : Keolo#1236
 
 Bot = Bot fonctionnant sous discord.js
 
